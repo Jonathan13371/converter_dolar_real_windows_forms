@@ -1,0 +1,10 @@
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex05\ex05\ex05\bin\Debug\ex05.exe.config
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex05\ex05\ex05\bin\Debug\ex05.exe
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex05\ex05\ex05\bin\Debug\ex05.pdb
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex05\ex05\ex05\obj\Debug\ex05.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex05\ex05\ex05\obj\Debug\ex05.frmTelaPrincipal.resources
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex05\ex05\ex05\obj\Debug\ex05.Properties.Resources.resources
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex05\ex05\ex05\obj\Debug\ex05.csproj.GenerateResource.cache
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex05\ex05\ex05\obj\Debug\ex05.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex05\ex05\ex05\obj\Debug\ex05.exe
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex05\ex05\ex05\obj\Debug\ex05.pdb
